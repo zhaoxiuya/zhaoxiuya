@@ -9,7 +9,11 @@
 
 ### [주로 사용하는 언어]
 <img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white">
 
 
 ### [관심있는 언어]
+<img alt="Static Badge" src="https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&logo=Haskell&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/Clojure-5881D8?style=flat-square&logo=Clojure&logoColor=white">
 
