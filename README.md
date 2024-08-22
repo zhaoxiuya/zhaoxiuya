@@ -4,7 +4,7 @@
 
 조수아의 깃허브입니다
 
-### | BaekJoon (Solved.ac) |
+### solved.ac
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=zhaoxiuya)](https://solved.ac/{zhaoxiuya})  
 <img src="http://mazandi.herokuapp.com/api?handle=zhoaxiuya&theme=dark"/>
  
