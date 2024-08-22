@@ -18,3 +18,4 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/Clojure-5881D8?style=flat-square&logo=Clojure&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/Wolfram%20Mathematica-DD1100?style=flat-square&logo=wolframmathematica&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/>
+<img alt="Static Badge" src="https://img.shields.io/badge/Mercury-666666?style=flat-square&logoColor=white"/>
