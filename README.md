@@ -8,11 +8,12 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=zhaoxiuya)](https://solved.ac/{zhaoxiuya})  <img src="http://mazandi.herokuapp.com/api?handle=zhaoxiuya&theme=dark"/>
 
 ### [주로 사용하는 언어]
-<img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
 
 
 ### [관심있는 언어]
+<img alt="Static Badge" src="https://img.shields.io/badge/Fortran-734f96?style=flat-square&logo=fortran&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/>
 <img alt="Static Badge" src="https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&logo=Haskell&logoColor=white">
