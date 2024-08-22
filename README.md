@@ -4,7 +4,9 @@
 
 조수아의 깃허브입니다
 
-### solved.ac
+### [프로필]
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=zhaoxiuya)](https://solved.ac/{zhaoxiuya})  <img src="http://mazandi.herokuapp.com/api?handle=zhaoxiuya&theme=dark"/>
  
-</div>
+Atcoder: [링크](https://atcoder.jp/users/wizardrabbit)<br>
+### [주로 사용하는 언어]
+<img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a>
