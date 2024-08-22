@@ -20,9 +20,9 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/Wolfram%20Mathematica-DD1100?style=flat-square&logo=wolframmathematica&logoColor=white">
 
 ### [연락처]
-E-mail : zhaoxiuya@gmail.com
-BOJ : zhaoxiuya
-Discord : chomel
+E-mail : zhaoxiuya@gmail.com <br>
+BOJ : zhaoxiuya <br>
+Discord : chomel <br>
 
  
 ### [디스코드 서버]
