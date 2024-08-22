@@ -23,7 +23,7 @@
 E-mail : zhaoxiuya@gmail.com <br>
 BOJ : zhaoxiuya <br>
 Discord : chomel <br>
-
+Kakao Bank : 7777-02-9259542
  
 ### [디스코드 서버]
 https://discord.gg/duY4hkrRCV
