@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=#00FFEE&height=300&section=header&text=zhaoxiuya&fontSize=90" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+Zhaoxiuya's+Github" alt="Typing SVG" /></a>
 
 printf("Welcome");
 조수아의 깃허브입니다
