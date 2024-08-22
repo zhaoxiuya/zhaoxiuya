@@ -1,16 +1,14 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**zhaoxiuya/zhaoxiuya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 
-Here are some ideas to get you started:
+printf("Welcome");
+조수아의 깃허브입니다
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 📑 Stats
+ 
+### | BaekJoon (Solved.ac) |
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=zhaoxiuya)](https://solved.ac/{zhaoxiuya})  
+<img src="http://mazandi.herokuapp.com/api?handle=bollt44&theme=dark"/>
+ 
+</div>
