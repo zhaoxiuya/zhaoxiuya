@@ -17,4 +17,4 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&logo=Haskell&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/Clojure-5881D8?style=flat-square&logo=Clojure&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/Wolfram%20Mathematica-DD1100?style=flat-square&logo=wolframmathematica&logoColor=white">
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
+<img alt="Static Badge" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/>
