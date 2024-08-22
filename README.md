@@ -1,6 +1,8 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+Zhaoxiuya's+Github" alt="Typing SVG" /></a>
+![header](https://capsule-render.vercel.app/api?
+type=rounded&color=timeGradient&text=Welcome%20to%20Zhaoxiuya's%20GitHub%20
+&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
 
 조수아의 깃허브입니다
 
