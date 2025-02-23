@@ -1,6 +1,6 @@
 <div align="center">
 
-안녕하세요! 프로그래밍 뉴비 조수아입니다
+안녕하세요! 컴퓨터 알고리즘과 인공지능에 관심있는 Zhaoxiuya입니다
 
 ### [프로필]
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=zhaoxiuya)](https://solved.ac/{zhaoxiuya})  <img src="http://mazandi.herokuapp.com/api?handle=zhaoxiuya&theme=dark"/>
@@ -24,6 +24,3 @@ E-mail : zhaoxiuya@gmail.com <br>
 BOJ : zhaoxiuya <br>
 Discord : chomel <br>
 Kakao Bank : 7777-02-9259542
- 
-### [디스코드 서버]
-https://discord.gg/duY4hkrRCV
