@@ -1,4 +1,4 @@
-9<div align="center">
+<div align="center">
 
 안녕하세요! 컴퓨터 알고리즘과 인공지능에 관심있는 Zhaoxiuya입니다
 
