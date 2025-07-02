@@ -11,6 +11,7 @@
 
 
 ### [관심있는 언어]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhaoxiuya&layout=compact&theme=dracula)
 <img alt="Static Badge" src="https://img.shields.io/badge/Fortran-734f96?style=flat-square&logo=fortran&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/>
