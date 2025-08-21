@@ -1,6 +1,6 @@
 <div align="center">
 
-안녕하세요! 컴퓨터 알고리즘과 인공지능에 관심있는 Zhaoxiuya입니다
+안녕하세요! 프로그래밍과 수학에 관심있는 Zhaoxiuya입니다
 
 ### [프로필]
 <img src="http://mazandi.herokuapp.com/api?handle=zhaoxiuya&theme=dark"/>
