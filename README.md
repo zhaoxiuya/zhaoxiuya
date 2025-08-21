@@ -3,7 +3,7 @@
 안녕하세요! 컴퓨터 알고리즘과 인공지능에 관심있는 Zhaoxiuya입니다
 
 ### [프로필]
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=zhaoxiuya)](https://solved.ac/{zhaoxiuya})  <img src="http://mazandi.herokuapp.com/api?handle=zhaoxiuya&theme=dark"/>
+<img src="http://mazandi.herokuapp.com/api?handle=zhaoxiuya&theme=dark"/>
 
 ### [주로 사용하는 언어]
 <img alt="Static Badge" src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white">
