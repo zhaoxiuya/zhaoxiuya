@@ -1,6 +1,6 @@
 <div align="center">
 
-안녕하세요! 프로그래밍과 수학에 관심있는 Zhaoxiuya입니다
+안녕하세요! 프로그래밍과 수학에 관심있는 조수아입니다
 
 ### [프로필]
 <img src="http://mazandi.herokuapp.com/api?handle=zhaoxiuya&theme=dark"/>
@@ -21,4 +21,3 @@
 E-mail : zhaoxiuya@gmail.com <br>
 BOJ : zhaoxiuya <br>
 Discord : chomel <br>
-Kakao Bank : 7777-02-9259542
