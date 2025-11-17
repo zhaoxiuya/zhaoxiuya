@@ -1,4 +1,4 @@
-https://skillicons.dev/icons?i=c,cpp,fortran,haskell,nix
+[![Programming Languages](https://skillicons.dev/icons?i=c,cpp,fortran,haskell,nix)](https://skillicons.dev)
 
 <div align="center">
 
