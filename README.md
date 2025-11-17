@@ -4,7 +4,7 @@
 
 ### [프로필]
 <img src="http://mazandi.herokuapp.com/api?handle=zhaoxiuya&theme=dark"/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhaoxiuya)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhaoxiuya&theme=dark"/>
 
 ### [주로 사용하는 언어]
 <img alt="Static Badge" src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white">
