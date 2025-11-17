@@ -6,4 +6,4 @@ E-mail : zhaoxiuya@gmail.com
 BOJ : zhaoxiuya  
 Discord : chomel 
 
-[![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=zhaoxiuya&layout=compact&theme=gruvbox&hide_border=true](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhaoxiuya&layout=compact&theme=gruvbox&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
