@@ -22,5 +22,7 @@ jobs:
           commits_authoring: >
             zhaoxiuya
             zhaoxiuya@users.noreply.github.com
+          config_display: columns
+          config_padding: 20
             
 
