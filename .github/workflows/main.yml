@@ -22,3 +22,4 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_limit: 8
           plugin_languages_ignored: "Jupyter Notebook"
+          plugin_languages_analysis: committed
